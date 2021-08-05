@@ -15,3 +15,4 @@ Resposta 2:
 ```
 Para o jogo da velha é possível usar 4 eixos de simetria para basicamente dividir o numero de estados por 4. Isso aumentaria drasticamente a velocidade / reduziria a memória necessária. Se o oponente não aproveitasse as simetrias, isso poderia resultar em um pior desempenho geral, por exemplo, se o oponente sempre jogasse certo, exceto em 1 canto, então usar simetrias significaria que você nunca tiraria vantagem dessa informação. Isso significa que posições simetricamente equivalentes nem sempre têm o mesmo valor em um jogo multijogador
 ```
+[Exercício 1.2.docx](https://github.com/hfbassani/RLBookExercises/files/6940805/Exercicio.1.2.docx)
