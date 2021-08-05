@@ -1,3 +1,4 @@
+[Exercício 1.4.docx](https://github.com/hfbassani/RLBookExercises/files/6940815/Exercicio.1.4.docx)
 ### *Exercise 1.4: Learning from Exploration*
 
 **Suppose learning updates occurred after all moves, including exploratory moves. If the step-size parameter is appropriately reduced over time (but not the tendency to explore), then the state values would converge to a different set of probabilities. What (conceptually) are the two sets of probabilities computed when we do, and when we do not, learn from exploratory moves? Assuming that we do continue to make exploratory moves, which set of probabilities might be better to learn? Which would result in more wins?**
