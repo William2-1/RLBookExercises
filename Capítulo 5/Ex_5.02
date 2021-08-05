@@ -1,0 +1,3 @@
+
+Exercício 5.2
+Resposta: Os resultados serão os mesmos. Isso porque na tarefa de blackjack, todas as recompensas são zero, exceto a última etapa. Portanto, em um episódio o retorno só pode ser alterado na última etapa, não importando em um método de primeira visita ou a cada visita.
