@@ -1,3 +1,4 @@
+[Exercício 2.1.docx](https://github.com/hfbassani/RLBookExercises/files/6940836/Exercicio.2.1.docx)
 ### *Exercise 2.1:*
 
 **In *ε*-greedy action selection, for the case of two actions and *ε* = 0.5, what is the probability that the greedy action is selected?**
