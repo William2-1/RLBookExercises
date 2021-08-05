@@ -1,3 +1,4 @@
+[Exercício 2.6.docx](https://github.com/hfbassani/RLBookExercises/files/6940841/Exercicio.2.6.docx)
 ### *Exercise 2.6: Mysterious Spikes*
 
 **The results shown in Figure 2.3 should be quite reliable because they are averages over 2000 individual, randomly chosen 10-armed bandit tasks. Why, then, are there oscillations and spikes in the early part of the curve for the optimistic method? In other words, what might make this method perform particularly better or worse, on average, on particular early steps?**
