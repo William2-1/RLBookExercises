@@ -8,6 +8,7 @@ Resposta 1:
 ```
 O algoritmo aprenderia com ele mesmo maneiras de vencer o jogo, através da experiência adquirida nas suas partidas. Sua política de movimento será diferente da de um humano, pois o algoritmo não teve nenhum contato(jogando contra ou por um modelo) com técnicas utilizadas por um humano, possuindo assim um maneira única de jogar, e podendo até existir momentos na partida que o algoritmo faça jogadas contraintuitivas para um humano, pois ele aprendeu que essa é a melhor jogada nessa situação para obter a vitória no final da partida.
 ```
+[Exercício 1.1.docx](https://github.com/hfbassani/RLBookExercises/files/6940787/Exercicio.1.1.docx)
 
 ---
 Resposta 2:
